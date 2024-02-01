@@ -23,7 +23,7 @@ Inspiration for Others: If you're looking for Python coding inspiration or want 
 Stay Connected
 Follow me on this Python coding journey! Connect with me on:
 
-GitHub
-LinkedIn
+[GitHub](https://github.com/dhwanill)
+[LinkedIn](https://www.linkedin.com/in/dhwanilll/)
 
 Let's code, learn, and have fun with Python! 🐍✨
