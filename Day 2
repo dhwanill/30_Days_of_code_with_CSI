@@ -1,7 +1,12 @@
-# User input for name and age
+try:
+    # User input for name
+    name = input("Enter your name: ")
 
-name = input("Enter your name: ")
-age = input("Enter your age: ")
+    # User input for age
+    age = int(input("Enter your age: "))
 
-# Greeting with age
-print("Hello, {name}! You are {age} years old.")
+    # Greeting with age
+    print(f"Hello, {name}! You are {age} years old.")
+
+except ValueError:
+    print("Invalid input. Please enter a valid age as a number.")
