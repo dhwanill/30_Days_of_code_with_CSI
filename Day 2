@@ -1,0 +1,7 @@
+# User input for name and age
+
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+
+# Greeting with age
+print("Hello, {name}! You are {age} years old.")
