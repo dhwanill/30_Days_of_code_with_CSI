@@ -11,8 +11,7 @@ The "30 Days of Code with CSI" challenge is an exciting initiative organized by 
 Repository Structure
 📁 Day1: Print "Day 1 of 30 days of code"
 
-[Day1_solution.py]: My Python solution to the Day 1 challenge.
-[Explanation.md]: Writing a program to  print  "Day 1 of 30 days of code"
+[Day1_solution.py]: My Python solution to the Day 1 challenge. Writing a program to  print  "Day 1 of 30 days of code"
 
 
 Why Follow Along?
