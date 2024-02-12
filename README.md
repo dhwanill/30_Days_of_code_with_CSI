@@ -8,11 +8,6 @@ Welcome to my Python coding journey with the Computer Society of India (CSI) Cha
 About the Challenge
 The "30 Days of Code with CSI" challenge is an exciting initiative organized by the CSI Chapter at SVVV. Over the next 30 days, I'll be tackling diverse coding challenges using Python, honing my skills, and exploring various facets of computer science.
 
-Repository Structure
-📁 Day1: Print "Day 1 of 30 days of code"
-
-[Day1_solution.py]: My Python solution to the Day 1 challenge. Writing a program to  print  "Day 1 of 30 days of code"
-
 
 Why Follow Along?
 Python Programming: All solutions are implemented in Python, providing a hands-on experience with the language.
