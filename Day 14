@@ -14,4 +14,4 @@ try:
     result = count_occurrences(my_array, target_element)
     print(f"Occurrences of {target_element} in the array: {result}")
 except ValueError:
-    print("Oops! Please enter valid integers for array elements and the target.")
+    print("Please enter valid integers for array elements and the target.")
