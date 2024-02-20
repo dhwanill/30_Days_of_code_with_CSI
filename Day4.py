@@ -1,4 +1,6 @@
-# Day 4 of 30 days of code
+# Day 4 
+# Define a function that calculates the factorial of a given number and use it to find the factorial of 5.
+
 
 def calculate_factorial(number):
     """
