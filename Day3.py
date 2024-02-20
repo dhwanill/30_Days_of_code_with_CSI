@@ -1,3 +1,4 @@
+# Day 3
 # Writing a program that checks if a number entered by the user is even or odd and prints the result.
 
 # User input for a number
