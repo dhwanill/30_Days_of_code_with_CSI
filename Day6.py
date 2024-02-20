@@ -1,3 +1,4 @@
+# Day 6
 # Program to print all elements in an array
 
 # An array is a data structure that stores a collection of elements, each identified by an index or a key. In Python, lists are a versatile type of array where elements can be of different types 
