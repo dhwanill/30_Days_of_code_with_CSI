@@ -1,4 +1,4 @@
-# Day 8 of 30 days of code
+# Day 8 
 # Write a program to reverse an array
 
 
