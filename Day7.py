@@ -1,4 +1,4 @@
-# Day 7 of 30 days of code
+# Day 7
 # Write a program to find the sum of all elements in an array.
 
 # User input: Enter numbers separated by spaces
