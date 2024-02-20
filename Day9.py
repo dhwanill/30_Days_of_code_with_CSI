@@ -1,4 +1,4 @@
-# Day 9 of 30 days of code
+# Day 9
 # Implementing a linear search algorithm to find an element in an array.
 
 def linear_search(arr, target):
